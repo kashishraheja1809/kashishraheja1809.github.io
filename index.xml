@@ -1,38 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://kashishraheja1809.github.io/</link><description>Recent content on</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kashishraheja1809.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://kashishraheja1809.github.io/about/</link><pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate><guid>https://kashishraheja1809.github.io/about/</guid><description>&lt;p>I’m Kashish Raheja, an experienced software engineer with over 7.5 years of expertise in system development, DevOps, and cloud deployments. I thrive in fast-paced environments, and I am passionate about building scalable, high-performance systems.&lt;/p>
-&lt;h3 id="skills">Skills&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Languages/Concepts:&lt;/strong> Golang, PHP, NodeJS, Python, Shell Scripting, Data Structures, Algorithms, OOPs&lt;/li>
-&lt;li>&lt;strong>Deployment:&lt;/strong> Docker, Kubernetes, Jenkins, Ansible, CI/CD&lt;/li>
-&lt;li>&lt;strong>Cloud:&lt;/strong> AWS, Azure&lt;/li>
-&lt;li>&lt;strong>Databases:&lt;/strong> MySQL, Elasticsearch, Aerospike, Redis, MongoDB&lt;/li>
-&lt;li>&lt;strong>Monitoring:&lt;/strong> Nagios, Prometheus, Kibana, Grafana, Logstash&lt;/li>
-&lt;li>&lt;strong>Tools/Softwares:&lt;/strong> Kafka, Beanstalk, JIRA, GitHub, Bitbucket&lt;/li>
-&lt;/ul></description></item><item><title>Contact</title><link>https://kashishraheja1809.github.io/contact/</link><pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate><guid>https://kashishraheja1809.github.io/contact/</guid><description>&lt;p>Feel free to reach out to me via email or phone, or use the form below to send me a message:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Email:&lt;/strong> &lt;a href="mailto:mail.kashishraheja@gmail.com">mail.kashishraheja@gmail.com&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Phone:&lt;/strong> &lt;a href="tel:+919413745250">+91 9413745250&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Experience</title><link>https://kashishraheja1809.github.io/experience/</link><pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate><guid>https://kashishraheja1809.github.io/experience/</guid><description>&lt;h2 id="professional-experience">Professional Experience&lt;/h2>
-&lt;h3 id="exotel-bengaluru--member-of-technical-staff---3">Exotel, Bengaluru — Member of Technical Staff - 3&lt;/h3>
-&lt;p>&lt;strong>July 2021 - Present&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Led the end-to-end development and implementation of Exotel&amp;rsquo;s Omni Channel Messaging Stack, from concept to deployment, enhancing messaging capabilities through effective project management and full-stack development.&lt;/li>
-&lt;li>Engineered and launched a robust SMS analytics infrastructure, enabling near real-time visualization of SMS statistics on the Exotel dashboard, significantly improving data accessibility and decision-making through advanced data engineering and dashboard development.&lt;/li>
-&lt;li>Collaborated with product managers and stakeholders to align project
-timelines, ensuring timely delivery and successful outcomes by utilizing agile
-methodologies and effective communication.&lt;/li>
-&lt;li>Integrated and deployed the new Legs platform with the existing calls platform, facilitating a seamless transition and significantly improving system functionality through strategic system architecture and DevOps practices.&lt;/li>
-&lt;li>Worked with cross-functional teams to identify and resolve software bugs, enhancing overall user experience and system reliability by leveraging strong debugging and quality assurance skills.&lt;/li>
-&lt;li>Currently scaling the Omni Channel stack, applying expertise in system architecture, performance optimization, and cost-effective design principles to support growth and efficiency.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="yellowai-bengaluru--software-development-engineer-ii">Yellow.AI, Bengaluru — Software Development Engineer II&lt;/h3>
-&lt;p>&lt;strong>Jan 2020 - July 2021&lt;/strong>&lt;/p></description></item><item><title>Projects</title><link>https://kashishraheja1809.github.io/projects/</link><pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate><guid>https://kashishraheja1809.github.io/projects/</guid><description>&lt;h3 id="omni-channel-messaging-stack-exotel">Omni Channel Messaging Stack (Exotel)&lt;/h3>
-&lt;p>Led the development of a messaging stack handling multiple communication channels, enhancing user experience with near real-time message delivery.&lt;/p>
-&lt;p>&lt;strong>Technologies Used:&lt;/strong> Golang, Kafka, Elastic Search, MySQL, Docker, Kubernetes, Prometheus, AWS&lt;/p>
-&lt;hr>
-&lt;h3 id="call-legs-platform-exotel">Call Legs Platform (Exotel)&lt;/h3>
-&lt;p>Integrated and deployed the new Legs platform with the existing calls platform, facilitating a seamless transition and significantly improving system functionality through strategic system architecture and DevOps practices.&lt;/p>
-&lt;p>&lt;strong>Technologies Used:&lt;/strong> Golang, State Machines, Telephony, SIP, VoIP, GRPC, Redis, Kafka, Docker, Kubernetes, Prometheus, AWS&lt;/p></description></item><item><title>Resume</title><link>https://kashishraheja1809.github.io/resume/</link><pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate><guid>https://kashishraheja1809.github.io/resume/</guid><description>&lt;p>You can download my full resume below:&lt;/p>
-&lt;p>&lt;a href="https://drive.google.com/file/d/1FyeGiS2bf1bj6E_TErteWeXD2y4yPtQK/view?usp=sharing">Download Resume (PDF)&lt;/a>&lt;/p>
-&lt;h3 id="summary">Summary&lt;/h3>
-&lt;p>Experienced software engineer with expertise in developing scalable systems, cloud infrastructure, and deployment pipelines. Proven track record in enhancing system performance and delivering high-quality software solutions.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://kashishraheja1809.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kashishraheja1809.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://kashishraheja1809.github.io/about/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kashishraheja1809.github.io/about/</guid>
+      <description>&lt;p&gt;I’m Kashish Raheja, an experienced software engineer with over 7.5 years of expertise in system development, DevOps, and cloud deployments. I thrive in fast-paced environments, and I am passionate about building scalable, high-performance systems.&lt;/p&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;&#xA;  Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages/Concepts:&lt;/strong&gt; Golang, PHP, NodeJS, Python, Shell Scripting, Data Structures, Algorithms, OOPs&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Deployment:&lt;/strong&gt; Docker, Kubernetes, Jenkins, Ansible, CI/CD&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cloud:&lt;/strong&gt; AWS, Azure&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; MySQL, Elasticsearch, Aerospike, Redis, MongoDB&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monitoring:&lt;/strong&gt; Nagios, Prometheus, Kibana, Grafana, Logstash&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools/Softwares:&lt;/strong&gt; Kafka, Beanstalk, JIRA, GitHub, Bitbucket&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://kashishraheja1809.github.io/contact/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kashishraheja1809.github.io/contact/</guid>
+      <description>&lt;p&gt;Feel free to reach out to me via email or phone, or use the form below to send me a message:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:mail.kashishraheja@gmail.com&#34; &gt;mail.kashishraheja@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; &lt;a href=&#34;tel:&amp;#43;919413745250&#34; &gt;+91 9413745250&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>https://kashishraheja1809.github.io/experience/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kashishraheja1809.github.io/experience/</guid>
+      <description>&lt;h2 id=&#34;professional-experience&#34;&gt;&#xA;  Professional Experience&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#professional-experience&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;exotel-bengaluru--member-of-technical-staff---3&#34;&gt;&#xA;  Exotel, Bengaluru — Member of Technical Staff - 3&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#exotel-bengaluru--member-of-technical-staff---3&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;July 2021 - Present&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Led the end-to-end development and implementation of Exotel&amp;rsquo;s Omni Channel Messaging Stack, from concept to deployment, enhancing messaging capabilities through effective project management and full-stack development.&lt;/li&gt;&#xA;&lt;li&gt;Engineered and launched a robust SMS analytics infrastructure, enabling near real-time visualization of SMS statistics on the Exotel dashboard, significantly improving data accessibility and decision-making through advanced data engineering and dashboard development.&lt;/li&gt;&#xA;&lt;li&gt;Collaborated with product managers and stakeholders to align project&#xA;timelines, ensuring timely delivery and successful outcomes by utilizing agile&#xA;methodologies and effective communication.&lt;/li&gt;&#xA;&lt;li&gt;Integrated and deployed the new Legs platform with the existing calls platform, facilitating a seamless transition and significantly improving system functionality through strategic system architecture and DevOps practices.&lt;/li&gt;&#xA;&lt;li&gt;Worked with cross-functional teams to identify and resolve software bugs, enhancing overall user experience and system reliability by leveraging strong debugging and quality assurance skills.&lt;/li&gt;&#xA;&lt;li&gt;Currently scaling the Omni Channel stack, applying expertise in system architecture, performance optimization, and cost-effective design principles to support growth and efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;yellowai-bengaluru--software-development-engineer-ii&#34;&gt;&#xA;  Yellow.AI, Bengaluru — Software Development Engineer II&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#yellowai-bengaluru--software-development-engineer-ii&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jan 2020 - July 2021&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://kashishraheja1809.github.io/projects/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kashishraheja1809.github.io/projects/</guid>
+      <description>&lt;h3 id=&#34;omni-channel-messaging-stack-exotel&#34;&gt;&#xA;  Omni Channel Messaging Stack (Exotel)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#omni-channel-messaging-stack-exotel&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Led the development of a messaging stack handling multiple communication channels, enhancing user experience with near real-time message delivery.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; Golang, Kafka, Elastic Search, MySQL, Docker, Kubernetes, Prometheus, AWS&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;call-legs-platform-exotel&#34;&gt;&#xA;  Call Legs Platform (Exotel)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#call-legs-platform-exotel&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Integrated and deployed the new Legs platform with the existing calls platform, facilitating a seamless transition and significantly improving system functionality through strategic system architecture and DevOps practices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://kashishraheja1809.github.io/resume/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kashishraheja1809.github.io/resume/</guid>
+      <description>&lt;p&gt;You can download my full resume below:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1FyeGiS2bf1bj6E_TErteWeXD2y4yPtQK/view?usp=sharing&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download Resume (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#summary&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Experienced software engineer with expertise in developing scalable systems, cloud infrastructure, and deployment pipelines. Proven track record in enhancing system performance and delivering high-quality software solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
