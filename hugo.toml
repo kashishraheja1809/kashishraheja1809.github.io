@@ -1,0 +1,7 @@
+baseURL = "https://kashishraheja1809.github.io/"
+languageCode = 'en-us'
+theme = "hugo-coder"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
